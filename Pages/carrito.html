@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/Styles/styles.css" />
+    <script
+      src="https://kit.fontawesome.com/827ebe31d2.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://fontawesome.com/icons/user?f=classic&s=solid"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <title>Smart Center - Carrito</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="icon-container">
+        <a href="/Pages/index.html" class="icon"
+          ><i class="fa-solid fa-mobile-button"></i
+        ></a>
+        <h1 class="titulo-principal">
+          <a href="/Pages/index.html"><span>Smart</span> Center</a>
+        </h1>
+      </div>
+      <ul class="navbar">
+        <li><a href="/Pages/index.html">Home</a></li>
+        <li><a href="#productos-carrito">Productos</a></li>
+        <li><a href="#nosotros">Nosotros</a></li>
+        <li><a href="/Pages/index.html#form">Contacto</a></li>
+      </ul>
+      <div class="menu" id="menu-icon">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+    </header>
+
+    <div class="overlay-menu" id="overlay-menu">
+      <span class="close-overlay">Cerrar</span>
+      <ul>
+        <li><a href="/Pages/index.html">Home</a></li>
+        <li><a href="#productos">Productos</a></li>
+        <li><a href="#nosotros">Nosotros</a></li>
+        <li><a href="/Pages/index.html#form">Contacto</a></li>
+      </ul>
+    </div>
+    <main id="productos-carrito">
+      <h1 class="carrito-title"><span>Tu</span> Carrito</h1>
+
+      <div class="elementos-carrito" id="elementosCarrito">
+        <p>El carrito está vacío.</p>
+      </div>
+
+      <div class="proceder-pago-container">
+        <div class="total" id="totalCarrito">Total: $0.00</div>
+        <div class="proceder-pago">Proceder al Pago</div>
+      </div>
+
+      <button class="vaciar-carrito" id="btnVaciarCarrito">
+        Vaciar Carrito
+      </button>
+
+      <div class="volver-a-tienda">
+        <a href="/Pages/index.html">Volver a la Tienda</a>
+      </div>
+    </main>
+    <footer id="nosotros">
+      <div class="left-side">
+        <p class="footer-title help">AYUDA</p>
+        <ul class="redes">
+          <li><a href="#">Formas de Pago</a></li>
+          <li><a href="#">Envíos y cambios</a></li>
+          <li><a href="#">Promociones</a></li>
+        </ul>
+      </div>
+      <div class="right-side">
+        <p class="footer-title">SEGUINOS EN NUESTRAS REDES</p>
+        <ul class="redes">
+          <li>
+            <a href="https://www.facebook.com/"><p>Facebook</p></a
+            ><i class="fa-brands fa-facebook"></i>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/"><p>Instagram</p></a
+            ><i class="fa-brands fa-instagram"></i>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/"><p>Youtube</p></a
+            ><i class="fa-brands fa-youtube"></i>
+          </li>
+        </ul>
+      </div>
+    </footer>
+    <script src="/JS/carrito.js"></script>
+    <script src="/JS/index.js"></script>
+  </body>
+</html>
