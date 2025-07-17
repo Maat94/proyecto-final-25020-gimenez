@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 16 Pro Max 512 GB',
       precio: 2380000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-16-plus.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-16-pro-max.png',
     },
     {
       id: 2,
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 16 Plus 128 GB',
       precio: 1936000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Iphone-cart/iphone-16-plus.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-16-plus.png',
     },
     {
       id: 4,
