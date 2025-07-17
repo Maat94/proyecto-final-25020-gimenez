@@ -99,7 +99,7 @@ body {
 /* HERO STLES */
 
 .hero {
-  background-image: url(./Images/Images/hero.jpg);
+  background-image: url(../Images/Images/hero.jpg);
   height: 95vh;
   width: 100%;
   background-size: cover;
@@ -150,24 +150,24 @@ body {
 }
 
 .iphone-hero {
-  background-image: url(./Images/Images/iphone-hero.jpg);
+  background-image: url(../Images/Images/iphone-hero.jpg);
   height: 78vh;
   background-position: top 15% center;
 }
 
 .samsung-hero {
-  background-image: url(./Images/Images/samsung-hero.jpg);
+  background-image: url(../Images/Images/samsung-hero.jpg);
   height: 78vh;
   background-position: top 25% center;
 }
 
 .motorola-hero {
-  background-image: url(./Images/Images/motorola-hero.jpg);
+  background-image: url(../Images/Images/motorola-hero.jpg);
   height: 78vh;
 }
 
 .xiaomi-hero {
-  background-image: url(./Images/Images/xiaomi-hero.jpg);
+  background-image: url(../Images/Images/xiaomi-hero.jpg);
   height: 78vh;
 }
 
@@ -303,7 +303,7 @@ body {
   }
 
   & .apple {
-    background-image: url(./Images/Images/apple3.jpg);
+    background-image: url(../Images/Images/apple3.jpg);
     height: 35vh;
     width: 30vw;
     background-size: cover;
@@ -326,7 +326,7 @@ body {
   }
 
   .samsung {
-    background-image: url(./Images/Images/samsung3.jpg);
+    background-image: url(../Images/Images/samsung3.jpg);
     height: 35vh;
     width: 30vw;
     background-size: cover;
@@ -350,7 +350,7 @@ body {
   }
 
   .motorola {
-    background-image: url(./Images/Images/motorola.webp);
+    background-image: url(../Images/Images/motorola.webp);
     height: 35vh;
     width: 30vw;
     background-size: cover;
@@ -373,7 +373,7 @@ body {
   }
 
   .xiaomi {
-    background-image: url(./Images/Images/xiaomi.webp);
+    background-image: url(../Images/Images/xiaomi.webp);
     height: 35vh;
     width: 30vw;
     background-size: cover;
