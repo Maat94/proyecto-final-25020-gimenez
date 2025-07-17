@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 16 Pro 128 GB',
       precio: 2160000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Iphone-cart/iphone-16-pro.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-16-pro-max.png',
     },
     {
       id: 3,
