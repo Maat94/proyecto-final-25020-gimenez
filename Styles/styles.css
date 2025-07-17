@@ -99,7 +99,7 @@ body {
 /* HERO STLES */
 
 .hero {
-  background-image: url(../Images/Images/hero.jpg);
+  background-image: url(../Images/hero.jpg);
   height: 95vh;
   width: 100%;
   background-size: cover;
