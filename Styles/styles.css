@@ -99,7 +99,7 @@ body {
 /* HERO STLES */
 
 .hero {
-  background-image: url(/Images/hero.jpg);
+  background-image: url(Images/hero.jpg);
   height: 95vh;
   width: 100%;
   background-size: cover;
@@ -150,13 +150,13 @@ body {
 }
 
 .iphone-hero {
-  background-image: url(/Images/iphone-hero.jpg);
+  background-image: url(Images/iphone-hero.jpg);
   height: 78vh;
   background-position: top 15% center;
 }
 
 .samsung-hero {
-  background-image: url(/Images/samsung-hero.jpg);
+  background-image: url(Images/samsung-hero.jpg);
   height: 78vh;
   background-position: top 25% center;
 }
@@ -167,7 +167,7 @@ body {
 }
 
 .xiaomi-hero {
-  background-image: url(/Images/xiaomi-hero.jpg);
+  background-image: url(Images/xiaomi-hero.jpg);
   height: 78vh;
 }
 
