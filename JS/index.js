@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 15 Plus 128 GB - Rosa',
       precio: 1472000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Iphone-cart/iphone-15-plus-rosa.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-15-plus-rosa.png',
     },
     {
       id: 6,
