@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 16 Pro Max 512 GB',
       precio: 2380000,
-      imagen: './Images/Iphone-cart/iphone-16-pro-max.png',
+      imagen: 'https://github.com/Maat94/proyecto-final-25020-gimenez/blob/main/Images/Images/Iphone-cart/iphone-16-pro-max.png',
     },
     {
       id: 2,
