@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 16 Pro 128 GB',
       precio: 2160000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-16-pro-max.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-16-pro.png',
     },
     {
       id: 3,
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 15 Plus 512 GB - Negro',
       precio: 1564000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Iphone-cart/iphone-15-plus.jpg',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-15-plus.jpg',
     },
     {
       id: 5,
@@ -69,21 +69,21 @@ document.addEventListener('DOMContentLoaded', () => {
       marca: 'Apple',
       modelo: 'iPhone 15 256 GB - Verde',
       precio: 1440000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Iphone-cart/iphone-15.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-15.png',
     },
     {
       id: 7,
       marca: 'Apple',
       modelo: 'iPhone 13 128 GB',
       precio: 810000,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Iphone-cart/iphone-13.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-13.png',
     },
     {
       id: 8,
       marca: 'Apple',
       modelo: 'iPhone 12 64 GB',
       precio: 637500,
-      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Iphone-cart/iphone-12.png',
+      imagen: 'https://raw.githubusercontent.com/Maat94/proyecto-final-25020-gimenez/main/Images/Images/Iphone-cart/iphone-12.png',
     },
 
     {
