@@ -12,10 +12,6 @@ body {
   margin: 0;
   padding: 0;
 }
-main {
-  flex: 1;
-  padding-bottom: 100px;
-}
 
 body {
   display: flex;
