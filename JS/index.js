@@ -263,13 +263,13 @@ document.addEventListener('DOMContentLoaded', () => {
   agregarCarrito();
 
   function agregarCarrito() {
-    // recorrer array original usando id de producto para encontrar btn correspondiente//
+    // Recorremos el array original usando id de producto para encontrar boton correspondiente//
     devices.forEach((device) => {
       const boton = document.getElementById(`btn-agregar-${device.id}`);
       if (boton) {
         //asegurar que boton exista
         boton.addEventListener('click', () => {
-          // al hacer click tenemos acceso al objeto 'devices' original
+          // Al hacer click tenemos acceso al objeto 'devices' original
           agregarProductoAlCarrito(device);
         });
       }
