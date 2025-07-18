@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .map((item) => {
           if (item.id === idProducto) {
             // Creamos un nuevo objeto con las propiedades exactas que necesitamos.
-            // Copiamos id, nombre, precio y reducimos la cantidad.
+            // Copiamos id, imagen, modelo, precio y reducimos la cantidad.
             return {
               id: item.id,
               imagen: item.imagen,
@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }
           return item; // Si no es el producto a modificar, lo devolvemos tal cual
         })
-        .filter((item) => item.cantidad > 0); //Mantiene solo aquellos ítems cuya cantidad sea mayor que cero
+        .filter((item) => item.cantidad > 0); //Mantenemos solo aquellos ítems cuya cantidad sea mayor que cero
 
       localStorage.setItem(
         'carritoDeCompras',
